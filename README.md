@@ -1,1 +1,1 @@
-# expensetracker
+An Expense Tracker built using Angular, allowing users to add, edit, and delete expenses while tracking their spending. It features a dynamic UI with real-time updates and data visualization. The project focuses on efficient state management and user-friendly navigation.
